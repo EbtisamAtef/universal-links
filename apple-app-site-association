@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "28Z6M682A9.com.sigma.universalLink",
+                "paths": [
+                    "/product/*"
+                ]
+            }
+        ]
+    }
+}
